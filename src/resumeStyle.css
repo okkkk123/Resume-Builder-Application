@@ -1,0 +1,149 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.submittedGeneral {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #627281; 
+  box-sizing: border-box;
+  min-height: 100vh;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 20px;
+}
+
+.formTitle, h2{
+  color: rgb(41, 68, 112);
+}
+
+.resumeContainer {
+  width: 100%;
+  max-width: 1200px;
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.container-Education,
+.generalInfo,
+.experienceInfo {
+  margin-bottom: 20px;
+}
+
+.submittedGeneral h1,
+.submittedGeneral p span strong, 
+.submittedEducational-Info h2, 
+.experienceInfo h2{
+  color: rgb(41, 68, 112);
+}
+
+input{
+  flex: 1;
+  border: solid 1px #ccc;
+  outline: none;
+  width: 100%;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px 0;
+  font-size: 1rem;
+}
+
+input:hover{
+  background-color: rgb(221, 221, 221);
+}
+
+label{
+  color: rgb(28, 47, 78);
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+#submitbtn, #submit-edc, #submit-exp{
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(41, 68, 112);
+  outline: none;
+  border: none;
+}
+
+#submitbtn:hover, #submit-edc:hover, #submit-exp:hover, .editSkillBtn:hover, .skillSubmitBtn:hover, .addSkill:hover{
+  background-color: rgb(29, 49, 82);
+}
+
+.editGeneral, .editEducation, .editPractical, .editSkillBtn{
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 5px 10px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(41, 68, 112);
+  color: white;
+}
+
+.addExpBtn{
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 5px 8px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  color: white;
+  background-color: rgb(41, 68, 112);
+}
+
+.editGeneral:hover, .editEducation:hover, .editPractical:hover, .editSkillBtn:hover{
+  background-color: rgb(29, 49, 82);
+}
+
+.addExpBtn:hover{
+  background-color: rgb(29, 49, 82);
+}
+
+.skillSubmitBtn{
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background-color: rgb(41, 68, 112);
+  color: white;
+  padding: 10px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.addSkill{
+  cursor: pointer;
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background-color: rgb(41, 68, 112);
+  color: white;
+}
+
+.error{
+  color: red;
+}
+
+

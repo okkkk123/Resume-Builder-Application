@@ -11,9 +11,15 @@ This application contains various forms that allow a user to input their informa
 
 I chose React.js for this application because it allows me to build each form (General Info, Educational Info, Work Experience, and Skills) as a separate component, ensuring clean, reusable, and maintainable code. React's component-based architecture simplifies managing the state and props across the application, making it easy to handle user inputs, validation, and dynamic rendering of the resume. Additionally, React’s efficiency in updating the UI with minimal DOM manipulation enhances the overall user experience.
 
+## Why I built this Application
+1. To further improve my react skills
+2. Understand how and when to use state variables
+3. Learn how to build forms and implement form validation
+4. Learn how to build React Components 
+
 ## Challenges Faced
 Firstly I had a tough time with updating the state using array and object state variables. To tackle this I used Mozilla's MDN Web Docs and React.dev/learn to understand documenation and usage purposes. 
-**Links Used**
+**Links Used Below:**
 1. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 2. [React.dev](https://react.dev/learn)
 

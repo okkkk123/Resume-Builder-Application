@@ -1,6 +1,6 @@
 # Resume Builder
 
-This web application built with Javascript and React.js library generates a professional resume from user entered information, streamlining the process and ensuring relevant content is efficiently formatted. 
+This web application, built with JavaScript and the React.js library, renders a resume template from user-entered information, streamlining the process and ensuring relevant content is efficiently formatted. While it does not generate a downloadable resume, it serves as a useful tool for new job seekers to understand how they can structure their resume and what key information to include.
 
 ## Description
 This application contains various forms that allow a user to input their information. There are 4 forms in this application each asking different sets of information. 

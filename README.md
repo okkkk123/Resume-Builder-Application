@@ -23,8 +23,9 @@ Firstly I had a tough time with updating the state using array and object state 
 1. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 2. [React.dev](https://react.dev/learn)
 
-## Improvements
-* Figure out how users can download their created resume from this application
+## Improvements and further features
+* Create a feature that allows users to download resume as pdf
+* Have the tasks input box output as an array of tasks rather than String
 
 
 

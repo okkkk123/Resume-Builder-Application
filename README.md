@@ -13,6 +13,9 @@ I chose React.js for this application because it allows me to build each form (G
 
 ## Challenges Faced
 Firstly I had a tough time with updating the state using array and object state variables. To tackle this I used Mozilla's MDN Web Docs and React.dev/learn to understand documenation and usage purposes. 
+**Links Used**
+1. [MDN Web Docs](https://developer.mozilla.org/en-US/)
+2. [React.dev](https://react.dev/learn)
 
 ## Improvements
 * Figure out how users can download their created resume from this application
